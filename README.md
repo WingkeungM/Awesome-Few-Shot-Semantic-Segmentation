@@ -14,6 +14,8 @@ Some papers for 2017-2021 refer to [Few-Shot-Semantic-Segmentation-Papers](https
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Part-Based Semantic Transform for Few-Shot Semantic Segmentation | TNNLS | [PDF](https://ieeexplore.ieee.org/document/9448305) | [CODE](https://github.com/Yang-Bob/PST) |
+| Scale-Aware Detailed Matching for Few-Shot Aerial Image Semantic Segmentation | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/9568898) | [CODE](https://github.com/caoql98/SDM) |
 | Rich Embedding Features for One-Shot Semantic Segmentation | TNNLS | [PDF](https://ieeexplore.ieee.org/abstract/document/9463398) | - |
 | Simpler is Better: Few-shot Semantic Segmentation with Classifier Weight Transformer| ICCV | [PDF](https://arxiv.org/pdf/2108.03032.pdf) | [CODE](https://github.com/zhiheLu/CWT-for-FSS) |
 | Hypercorrelation Squeeze for Few-Shot Segmenation | ICCV | [PDF](https://arxiv.org/pdf/2104.01538.pdf) | [CODE](https://github.com/juhongm999/hsnet) |
@@ -23,10 +25,12 @@ Some papers for 2017-2021 refer to [Few-Shot-Semantic-Segmentation-Papers](https
 | Progressive One-Shot Human Parsing | AAAI | [PDF](https://arxiv.org/pdf/2012.11810.pdf) | [CODE](https://github.com/Charleshhy/One-shot-Human-Parsing) |
 | Bidirectional RNN-based Few Shot Learning for 3D Medical Image Segmentation | AAAI | [PDF](https://ojs.aaai.org/index.php/AAAI/article/view/16275) | [CODE](https://github.com/oopil/3D_medical_image_FSS) |
 | Scale-Aware Graph Neural Network for Few-Shot Semantic Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Xie_Scale-Aware_Graph_Neural_Network_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.pdf) | - |
+| Anti-aliasing Semantic Reconstruction for Few-Shot Semantic Segmentation | CVPR | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Liu_Anti-Aliasing_Semantic_Reconstruction_for_Few-Shot_Semantic_Segmentation_CVPR_2021_paper.pdf) | - |
 | Adaptive Prototype Learning and Allocation for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2104.01893.pdf) | [CODE](https://github.com/Reagan1311/ASGNet) |
 | Self-Guided and Cross-Guided Learning for Few-Shot Segmentation | CVPR | [PDF](https://arxiv.org/pdf/2103.16129.pdf) | [CODE](https://github.com/zbf1991/SCL) |
 | Few-Shot Segmentation Without Meta-Learning: A Good Transductive Inference Is All You Need? | CVPR  | [PDF](https://arxiv.org/pdf/2012.06166.pdf) | [CODE](https://github.com/mboudiaf/RePRI-for-Few-Shot-Segmentation) |
 | On the Texture Bias for Few-Shot CNN Segmentation | WACV | [PDF](https://arxiv.org/pdf/2003.04052v1.pdf) | [CODE](https://github.com/rezazad68/fewshot-segmentation) |
+| Harmonic Feature Activation for Few-shot Semantic Segmentation | TIP | [PDF](https://ieeexplore.ieee.org/document/9356450) | [CODE](https://github.com/Bibikiller/HFA) |
 | A Location-Sensitive Local Prototype Network for Few-Shot Medical Image Segmentation | ISBI | [PDF](https://arxiv.org/pdf/2103.10178.pdf) | - |
 | Dense Gaussian Processes for Few-Shot Segmentation | arXiv | [PDF](https://arxiv.org/pdf/2110.03674.pdf) | - |
 | End-to-end One-shot Human Parsing | arXiv | [PDF](https://arxiv.org/pdf/2105.01241.pdf) | - |
