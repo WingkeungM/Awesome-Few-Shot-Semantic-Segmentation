@@ -8,7 +8,7 @@ Some papers for 2017-2021 refer to [Few-Shot-Semantic-Segmentation-Papers](https
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Few-shot 3D Point Cloud Semantic Segmentation | CVPR | S3DIS & ScanNet | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf) | [CODE](https://github.com/Na-Z/attMPTI) |
-| Compositional Prototype Network with Multi-view Comparision for Few-Shot Point Cloud Semantic Segmentation | ScanNet | [PDF](https://arxiv.org/pdf/2012.14255.pdf) | - |
+| Compositional Prototype Network with Multi-view Comparision for Few-Shot Point Cloud Semantic Segmentation | arXiv | ScanNet | [PDF](https://arxiv.org/pdf/2012.14255.pdf) | - |
 | Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation | CVPR | ShapeNetPart | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Few-Shot_Learning_of_Part-Specific_Probability_Space_for_3D_Shape_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/Lingjing324/Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation) |
 
 
