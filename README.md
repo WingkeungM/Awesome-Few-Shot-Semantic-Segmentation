@@ -26,6 +26,7 @@ Some papers for 2017-2021 refer to [Few-Shot-Semantic-Segmentation-Papers](https
 ## 2021
 | Title | Venue | PDF | CODE |
 | :-----|:-----:|:---:|:----:|
+| Few-Shot Segmentation via Cycle-Consistent Transformer | NeurIPS | [PDF](https://proceedings.neurips.cc/paper/2021/file/b8b12f949378552c21f28deff8ba8eb6-Paper.pdf) | [CODE](https://github.com/GengDavid/CyCTR) | 
 | Part-Based Semantic Transform for Few-Shot Semantic Segmentation | TNNLS | [PDF](https://ieeexplore.ieee.org/document/9448305) | [CODE](https://github.com/Yang-Bob/PST) |
 | Scale-Aware Detailed Matching for Few-Shot Aerial Image Semantic Segmentation | TGRS | [PDF](https://ieeexplore.ieee.org/abstract/document/9568898) | [CODE](https://github.com/caoql98/SDM) |
 | Rich Embedding Features for One-Shot Semantic Segmentation | TNNLS | [PDF](https://ieeexplore.ieee.org/abstract/document/9463398) | - |
