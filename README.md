@@ -8,7 +8,7 @@ Statistics: 🔥 code is available & stars >= 100 &emsp;|&emsp; ⭐ citation >= 
 ## 2021
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Few-shot 3D Point Cloud Semantic Segmentation | CVPR | S3DIS & ScanNet | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf) | [CODE](https://github.com/Na-Z/attMPTI) |
+| Few-shot 3D Point Cloud Semantic Segmentation 🔥  | CVPR | S3DIS & ScanNet | [PDF](https://openaccess.thecvf.com/content/CVPR2021/papers/Zhao_Few-Shot_3D_Point_Cloud_Semantic_Segmentation_CVPR_2021_paper.pdf) | [CODE](https://github.com/Na-Z/attMPTI) |
 | Compositional Prototype Network with Multi-view Comparision for Few-Shot Point Cloud Semantic Segmentation | arXiv | ScanNet | [PDF](https://arxiv.org/pdf/2012.14255.pdf) | - |
 | Few-shot Learning of Part-specific Probability Space for 3D Shape Segmentation | CVPR | ShapeNetPart | [PDF](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Few-Shot_Learning_of_Part-Specific_Probability_Space_for_3D_Shape_Segmentation_CVPR_2020_paper.pdf) | [CODE](https://github.com/Lingjing324/Few-Shot-Learning-of-Part-Specific-Probability-Space-for-3D-Shape-Segmentation) |
 
@@ -19,7 +19,7 @@ Statistics: 🔥 code is available & stars >= 100 &emsp;|&emsp; ⭐ citation >= 
 ## 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
-| Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR (Oral) | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2203.07615v2.pdf) | [CODE](https://github.com/chunbolang/BAM) |
+| Learning What Not to Segment: A New Perspective on Few-Shot Segmentation 🔥 | CVPR (Oral) | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2203.07615v2.pdf) | [CODE](https://github.com/chunbolang/BAM) |
 | Holistic Prototype Activation for Few-Shot Segmentation | TPAMI | PASCAL & MS COCO | PDF | [CODE](https://github.com/chunbolang/HPA) |
 | Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation | IJCAI | PASCAL & MS COCO | [PDF](https://arxiv.org/abs/2204.09903.pdf) | [CODE](https://github.com/chunbolang/DCP) |
 | Cost Aggregation Is All You Need for Few-Shot Segmentation | arXiv | PASCAL & MS COCO & FSS-1000 | [PDF](https://arxiv.org/pdf/2112.11685.pdf) | [CODE](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer) |
