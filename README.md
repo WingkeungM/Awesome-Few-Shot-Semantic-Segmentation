@@ -20,6 +20,8 @@ Statistics: 🔥 code is available & stars >= 100 &emsp;|&emsp; ⭐ citation >= 
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
 | Learning What Not to Segment: A New Perspective on Few-Shot Segmentation | CVPR (Oral) | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2203.07615v2.pdf) | [CODE](https://github.com/chunbolang/BAM) |
+| Holistic Prototype Activation for Few-Shot Segmentation | TPAMI | PASCAL & MS COCO | PDF | [CODE](https://github.com/chunbolang/HPA) |
+| Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation | IJCAI | PASCAL & MS COCO | [PDF](https://arxiv.org/abs/2204.09903.pdf) | [CODE](https://github.com/chunbolang/DCP) |
 | Cost Aggregation Is All You Need for Few-Shot Segmentation | arXiv | PASCAL & MS COCO & FSS-1000 | [PDF](https://arxiv.org/pdf/2112.11685.pdf) | [CODE](https://github.com/Seokju-Cho/Volumetric-Aggregation-Transformer) |
 | MaskSplit: Self-supervised Meta-learning for Few-shot Semantic Segmentation | WACV | PASCAL & MS COCO | [PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Amac_MaskSplit_Self-Supervised_Meta-Learning_for_Few-Shot_Semantic_Segmentation_WACV_2022_paper.pdf) | [CODE](https://github.com/AhmetSencan/MaskSplit-Self-supervised-Meta-learning-for-Few-shot-Semantic-Segmentation) |
 | A Pixel-Level Meta-Learner for Weakly Supervised Few-Shot Semantic Segmentation | WACV | PASCAL & MS COCO | [PDF](https://openaccess.thecvf.com/content/WACV2022/papers/Lee_A_Pixel-Level_Meta-Learner_for_Weakly_Supervised_Few-Shot_Semantic_Segmentation_WACV_2022_paper.pdf) | - |
