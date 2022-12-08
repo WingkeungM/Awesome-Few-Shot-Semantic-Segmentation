@@ -19,6 +19,14 @@ Statistics: 🔥 code is available & stars >= 100 &emsp;|&emsp; ⭐ citation >= 
 ## 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Progressively Dual Prior Guided Few-shot Semantic Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.15467.pdf) | [CODE]() |
+| Activating the Discriminability of Novel Classes for Few-shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2212.01131.pdf) | [CODE]() |
+| Interclass Prototype Relation for Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.08681.pdf) | [CODE]() |
+| Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.02300.pdf) | [CODE]() |
+| A Joint Framework Towards Class-aware and Class-agnostic Alignment for Few-shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.01310.pdf) | [CODE]() |
+| Feature-Proxy Transformer for Few-Shot Segmentation | NeurIPS 2022 | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2210.06908.pdf) | [CODE](https://github.com/Jarvis73/FPTrans) |
+| Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | NeurIPS 2022 | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2210.06780.pdf) | [CODE]() |
+| Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2208.00306.pdf) | [CODE](https://github.com/ShadowXZT/DACM-Few-shot.pytorch) |
 | Learning What Not to Segment: A New Perspective on Few-Shot Segmentation 🔥 | CVPR (Oral) | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2203.07615v2.pdf) | [CODE](https://github.com/chunbolang/BAM) |
 | Holistic Prototype Activation for Few-Shot Segmentation | TPAMI | PASCAL & MS COCO | PDF | [CODE](https://github.com/chunbolang/HPA) |
 | Beyond the Prototype: Divide-and-conquer Proxies for Few-shot Segmentation | IJCAI | PASCAL & MS COCO | [PDF](https://arxiv.org/abs/2204.09903.pdf) | [CODE](https://github.com/chunbolang/DCP) |
