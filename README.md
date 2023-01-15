@@ -19,6 +19,22 @@ Statistics: 🔥 code is available & stars >= 100 &emsp;|&emsp; ⭐ citation >= 
 ## 2022
 | Title | Venue | Dataset | PDF | CODE |
 | :-----|:-----:|:---:|:---:|:----:|
+| Mask Matching Transformer for Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2301.01208.pdf) | [CODE]() |
+| MSI: Maximize Support-Set Information for Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2212.04673.pdf) | [CODE]() |
+| A Strong Baseline for Generalized Few-Shot Semantic Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.14126.pdf) | [CODE]() |
+| Elimination of Non-Novel Segments at Multi-Scale for Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.02300.pdf) | [CODE]() |
+| A Joint Framework Towards Class-aware and Class-agnostic Alignment for Few-shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.01310.pdf) | [CODE]() |
+| Feature-Proxy Transformer for Few-Shot Segmentation | NIPS2022 | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2210.06908.pdf) | [CODE]() |
+| Intermediate Prototype Mining Transformer for Few-Shot Semantic Segmentation | NIPS2022 | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2210.06780.pdf) | [CODE]() |
+| Doubly Deformable Aggregation of Covariance Matrices for Few-shot Segmentation | ECCV | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2208.00306.pdf) | [CODE]() |
+| Self-Support Few-Shot Semantic Segmentation | ECCV | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2207.11549.pdf) | [CODE]() |
+| Cost Aggregation with 4D Convolutional Swin Transformer for Few-Shot Segmentation | ECCV | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2207.10866.pdf) | [CODE]() |
+| Dense Cross-Query-and-Support Attention Weighted Mask Aggregation for Few-Shot Segmentatio | ECCV | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2207.08549.pdf) | [CODE]() |
+| MSANet: Multi-Similarity and Attention Guidance for Boosting Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2206.09667.pdf) | [CODE]() |
+| Singular Value Fine-tuning: Few-shot Segmentation requires Few-parameters Fine-tuning | NIPS2022 | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2206.06122.pdf) | [CODE]() |
+| Learning Non-target Knowledge for Few-shot Semantic Segmentation | CVPR | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2205.04903.pdf) | [CODE]() |
+| CATrans: Context and Affinity Transformer for Few-Shot Segmentation | IJCAI | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2204.12817.pdf) | [CODE]() |
+| Dynamic Prototype Convolution Network for Few-Shot Semantic Segmentation | CVPR | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2204.10638.pdf) | [CODE]() |
 | Progressively Dual Prior Guided Few-shot Semantic Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.15467.pdf) | [CODE]() |
 | Activating the Discriminability of Novel Classes for Few-shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2212.01131.pdf) | [CODE]() |
 | Interclass Prototype Relation for Few-Shot Segmentation | arXiv | PASCAL & MS COCO | [PDF](https://arxiv.org/pdf/2211.08681.pdf) | [CODE]() |
